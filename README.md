@@ -2,8 +2,8 @@
 
 A responsive dashboard for tracking weekly interview preparation across DSA, Git & GitHub, Technical (Full Stack) questions, and Machine Coding. It runs entirely in the browser and saves data in LocalStorage.
 
-- **Live demo:** _add your Vercel/Netlify link here_
-- **GitHub repository:** _add your repository link here_
+- **Live demo:** (https://interview-practice-tracker-sable.vercel.app/)
+- **GitHub repository:** (https://github.com/rishu1208m/Interview-Practice-Tracker.git)
 
 ## Features
 
